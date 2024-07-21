@@ -1,10 +1,10 @@
-Creating Environment and running environment:
-	1. python -m venv .venv
-	2. .venv\Scripts\activate (to activate)
-	3. pip install flask flask-sqlalchamey (to use flask/sqlalchamey for database)
-	4. set FLASK_APP=application.py
-	5. set FLASK_ENV=development
-	6. flask run
+# Creating Environment and running environment:
+1. python -m venv .venv
+2. .venv\Scripts\activate (to activate)
+3. pip install flask flask-sqlalchamey (to use flask/sqlalchamey for database)
+4. set FLASK_APP=application.py
+5. set FLASK_ENV=development
+6. flask run
 
 To run db in windows:
 Run following commands
